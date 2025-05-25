@@ -31,7 +31,8 @@ A modern, robust, and highly customizable document upload and preview system bui
 ## 📝 Project Overview
 
 This project is a frontend UI module for uploading, previewing, and managing documents. It supports drag-and-drop uploads, file validation, persistent storage, and rich previews for images, text, PDF, and DOCX files. The design is clean, minimal, and inspired by Apple's UI guidelines.
-
+---
+Video : [Working Video link](https://drive.google.com/file/d/1ZD5-Z8lS37VnlMKTucPumTfdZOhAyj0P/view?usp=sharing)
 ---
 
 ## 🛠️ Tech Stack
